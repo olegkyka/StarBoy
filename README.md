@@ -1,5 +1,21 @@
 # STARBOY
 StarBoy v1.1 (Kali Linux) - Metasploit automation
+-----------------------------------------------------------------------------
+
+    mmmmmmmmm  mmmmmmmmm  mmmmmmm  mmmmmmm       mmmmmmm  mmmmmmmm  m     m  
+    m              m      m     m  m     m       m     m  m      m   m   m   
+    m              m      m     m  m    m        m    m   m      m    m m    
+    mmmmmmmmm      m      mmmmmmm  mmmmm         mmmmm    m      m     m     
+            m      m      m     m  m   m         m    m   m      m     m     
+            m      m      m     m  m    m        m     m  m      m     m     
+    mmmmmmmmm      m      m     m  m     m       mmmmmmm  mmmmmmmm     m     
+                                                                       
+     _/?\_                                                                   
+     (҂`_´)                                                                  
+     <,︻╦╤─ ҉ - - - - - - - - - - - - - - - - - - - - - - - - - - - -514437     
+     _/-\_                                                                   
+     
+----------------------------------------------------------------------------
 
 # Disclaimer:
 
