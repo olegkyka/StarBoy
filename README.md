@@ -29,3 +29,9 @@ StarBoy v1.1 (Kali Linux) - Metasploit automation
 cd Starboy
 
 bash installer.sh
+
+# How to uninstall:
+
+cd Starboy 
+
+bash uninstaller.sh
