@@ -19,7 +19,7 @@ StarBoy v1.1 (Kali Linux) - Metasploit automation
 
 # StarBoy:
 
-Usage of StarBoy for pentesting targets without prior mutual consent is illegal. Starboy is intented to be a helpful tool for educational purposes, penetration testers and security researchers.
+Starboy is intented to be a helpful tool for educational purposes and security researchers.
 
 # How to install:
  
