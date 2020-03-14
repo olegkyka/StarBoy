@@ -1,5 +1,5 @@
 # STARBOY
-StarBoy v1.1 (Kali Linux) - Metasploit automation
+StarBoy v2.0 (Kali Linux) - Metasploit automation
 -----------------------------------------------------------------------------
 
     mmmmmmmmm  mmmmmmmmm  mmmmmmm  mmmmmmm       mmmmmmm  mmmmmmmm  m     m  
